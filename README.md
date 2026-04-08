@@ -48,18 +48,7 @@ Response
 }
 ```
 
-Status Codes
-
-Code Meaning
-200 ✅ Valid credentials
-400 ❌ Not a Microsoft account
-401 ❌ Invalid password
-403 ❌ 2FA required
 
 Telegram
 
 [Telegram Channel](https://t.me/rawapis) - More reversed APIs daily
-
-License
-
-MIT - Educational purposes only
