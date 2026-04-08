@@ -58,7 +58,7 @@ Code Meaning
 
 Telegram
 
-[f](https://t.me/rawapis) - More reversed APIs daily
+[Telegram Channel](https://t.me/rawapis) - More reversed APIs daily
 
 License
 
