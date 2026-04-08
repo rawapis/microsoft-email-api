@@ -5,11 +5,13 @@
 ## How it works
 
 **Step 1:** IDP Check - Detects if email is Microsoft account
+
 **Step 2:** OAuth Authorize - Gets login form and PPFT token
 
 **Step 3:** Login POST - Submits credentials
 
 **Step 4:** Get Token - Exchanges code for access token
+
 **Step 5:** Get Profile - Fetches name, country, birthdate
 
 ## Installation
